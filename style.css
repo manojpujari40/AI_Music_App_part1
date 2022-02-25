@@ -1,0 +1,8 @@
+#container{
+    width:100%;
+    margin:10px;
+}
+canvas{
+    box-shadow: 10px blue;
+    border-style: 5px dashed;
+}
